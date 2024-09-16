@@ -5,6 +5,16 @@ I am Dahezhiquan. I am based in İzmir, Turkey.
 I'm an enthusiastic Game Developer, Graphics Programmer and a Computer Scientist, focused on working with challenging
 projects and having fun while working.
 
+<div align="center">
+
+
+[![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=hayat-tamboli&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-tamboli&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
+
 ![Doğa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aeris170&show_icons=true)
 
 ## - 🕹️ My Job

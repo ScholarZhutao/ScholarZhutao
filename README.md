@@ -6,11 +6,14 @@
 
 <hr/>
 
-I am Zhu Tao. I am based in HangZhou, China.
-
+I am Tavian Zhu. I am located in HangZhou, China.
 
 
 ![Doğa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aeris170&show_icons=true)
+
+
+
+
 
 ## - 🕹️ My Job
 
@@ -47,19 +50,12 @@ I'm also working as an reader and learner for long life ;) 🎮
 
 ## - 🧠 I Know / Use
 
-### Programming Languages:
+### Programming Languages: Python\C\Matlab
 
-
-
-### APIs:
-
-
-### Tools:
 
 
 ## - 🤓 I’m currently learning
 
-<img src="http://img.shields.io/badge/-unreal_engine-black?style=for-the-badge&logo=unreal-engine&logoColor=blueviolet" style="margin:5px"  alt=""/>
 
 ## - 💬 Ask me about
 
@@ -72,10 +68,7 @@ I'd like to get in touch with the following topics:
 
 You can e-mail me directly, get in touch through the account(s) below!
 
-[![Linkedin Badge]()
-[![Portfolio Badge]()
 
-<div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
